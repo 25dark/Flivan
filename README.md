@@ -19,7 +19,7 @@
 
 <br />
 
-### Demo Screeshots
+### Demo Screenshots
 
 ![Flivan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Blogy** locally, run this command on your git bash:
+To run **Flivan** locally, run this command on your git bash:
 
 Linux and macOS:
 
@@ -47,8 +47,8 @@ git clone https://github.com/25dark/Flivan.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/djbonesgh).
+If you want to contact me you can reach me at [Twitter](https://www.twitter.com/djbonesgh).
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is **free to use** and does not contain any license.
