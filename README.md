@@ -11,7 +11,7 @@
 
   <h2 align="center">Flivan - Flight Website</h2>
 
-  Flivan is a fully responsive flight website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Flivan is a fully responsive flight website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://25dark.github.io/Flivan"><strong>➥ Live Demo</strong></a>
 
