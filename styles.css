@@ -119,6 +119,7 @@ nav {
   font-weight: 500;
   color: var(--text-light);
   text-align: center;
+  border-radius: 5px;
   cursor: pointer;
 }
 
@@ -152,7 +153,7 @@ nav {
   border-radius: 1rem;
 }
 
-.booking__container .input__content {
+.booking__container .input__group {
   width: 100%;
   position: relative;
 }
@@ -161,7 +162,7 @@ nav {
   position: absolute;
   top: 50%;
   left: 0;
-  transform: translateY(-50);
+  transform: translateY(-50%);
   font-size: 1.2rem;
   font-weight: 500;
   color: var(--text-dark);
